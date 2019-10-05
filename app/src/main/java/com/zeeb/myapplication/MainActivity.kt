@@ -22,6 +22,7 @@ import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity() {
 
+    // push
     companion object {
         const val CHANNEL_ID = "simplified_coding"
         private const val CHANNEL_NAME= "Simplified Coding"
