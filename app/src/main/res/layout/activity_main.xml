@@ -10,7 +10,7 @@
 
 
     <TextView
-        android:textSize="42sp"
+        android:textSize="20sp"
         android:textAppearance="@style/Base.TextAppearance.AppCompat.Headline"
         android:layout_centerHorizontal="true"
         android:textAlignment="center"
